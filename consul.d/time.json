@@ -1,0 +1,11 @@
+{
+    "service": {
+        "name": "time", 
+        "tags": ["rpc"], 
+        "port": 8081,
+        "check": {
+            "script": "zerorpc --connect tcp://127.0.0.1:8081 --timeout 1 _zerorpc_ping",
+            "interval": "60s"
+        }
+    }
+}
