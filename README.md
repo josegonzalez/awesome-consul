@@ -1,6 +1,14 @@
 # Consul Demo
 
-Demo about how to ususage of consule version 0.4.1
+Demo about how to use the [consul](https://www.consul.io) (version 0.4.1) with zerorpc.
+
+## Why consul
+
++ easy to install
++ HTTP APIs
++ Design for distributed system
++ Flexible health check
++ Excellent documentation
 
 ## Install consul
 
