@@ -1,6 +1,6 @@
 # Consul Demo
 
-Demo about how to use the [consul](https://www.consul.io) (version 0.4.1) with zerorpc.
+Demo about how to use the [consul](https://www.consul.io) (version 0.5.0) with zerorpc.
 
 ## Why consul
 
@@ -21,13 +21,13 @@ In this demo i just put it in the `./bin/` folder.
 First, start a zerorpc server:
 
 ```
-$ zerorpc --server tcp://0.0.0.0:8081 time 
+$ zerorpc --server --bind tcp://*:8081 time 
 ```
 
 Or, if you have a zerorpc environment in a virtualenv:
 
 ```
-$ path/to/zerorpc --server tcp://0.0.0.0:8081 time
+$ path/to/zerorpc --server --bind tcp://*:8081 time
 ```
 
 Then, start the consul agent and the web UI:
