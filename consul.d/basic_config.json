@@ -1,0 +1,12 @@
+{
+  "datacenter": "dc1",
+  "data_dir": "/tmp/consul/",
+  "log_level": "INFO",
+  "node_name": "localhost",
+  "server": true,
+  "bootstrap_expect": 1,
+  "advertise_addr": "192.168.8.104",
+  "bind_addr": "127.0.0.1",
+  "client_addr": "0.0.0.0",
+  "ui_dir": "./web/dist"
+}
