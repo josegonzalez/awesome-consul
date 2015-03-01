@@ -12,7 +12,7 @@ This is a list of awesome consul projects, libraries.
 ## Awesome consul
 
 + [Provision](#provision)
-+ [Programming Language Bindings](#programming-language-bindings)
++ [Programming Language Clients](#programming-language-clients)
 + [Notification](#notification)
 + [Practices](#practices)
 
@@ -25,11 +25,11 @@ This is a list of awesome consul projects, libraries.
     + [jivesoftware/ansible-consul](https://github.com/jivesoftware/ansible-consul)
 + Chef
     + [johnbellone/consul-cookbook](https://github.com/johnbellone/consul-cookbook)
-    + [](https://github.com/adamkrone/chef-consul-template)
-    https://github.com/darron/consul-cookbook
+    + [adamkrone/chef-consul-template](https://github.com/adamkrone/chef-consul-template)
+    + [darron/consul-cookbook](https://github.com/darron/consul-cookbook)
 
 
-### Programming Language Bindings
+### Programming Language Clients
 
 + [PHP](https://github.com/baldurrensch/consul-php)
 + [Go](https://github.com/armon/consul-api)
