@@ -39,7 +39,9 @@ This is a list of awesome consul projects, libraries.
 + Node.js
     + [gjohnson/consul-node](https://github.com/gjohnson/consul-node)
     + [silas/node-consul](https://github.com/silas/node-consul)
-+ [Python](https://github.com/cablehead/python-consul)
++ Python
+    + [cablehead/python-consul](https://github.com/cablehead/python-consul)
+    + [gmr/consulate](https://github.com/gmr/consulate)
 + Ruby
     + [WeAreFarmGeek/diplomat](https://github.com/WeAreFarmGeek/diplomat)
     + [xaviershay/consul-client](https://github.com/xaviershay/consul-client)
