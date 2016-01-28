@@ -74,9 +74,12 @@ This is a list of awesome third-party consul projects, libraries.
 
 ### Practices
 
-#### Configure Management
+#### Configuration Management
 
 + [confd](https://github.com/kelseyhightower/confd)
++ [consul-template](https://github.com/hashicorp/consul-template)
++ [envconsul: Read and set environmental variables for processes from Consul](https://github.com/hashicorp/envconsul)
++ [hiera-consul](https://github.com/lynxman/hiera-consul)
 
 #### Service Discovery
 
@@ -97,8 +100,10 @@ $ bin/consul agent -config-dir ./consul.d
 #### Others
 
 + [Consul KV backup](https://github.com/kailunshi/consul-backup)
-+ [Mirrors for multiple git repos](https://github.com/Cimpress-MCP/git2consul)
-+ [Do something based on leadership status](https://github.com/zeroXten/consul-do)
-+ [uWSGI plugin for consul integration](https://github.com/unbit/uwsgi-consul)
-+ [Command line interface](https://github.com/CiscoCloud/consul-cli)
-+ [Store and retrieve encrypted configs](https://github.com/xordataexchange/crypt)
++ [consul-cli: Command line interface](https://github.com/CiscoCloud/consul-cli)
++ [consul-do: Do something based on leadership status](https://github.com/zeroXten/consul-do)
++ [crypt: Store and retrieve encrypted configs](https://github.com/xordataexchange/crypt)
++ [git2consul: Mirrors for multiple git repos](https://github.com/Cimpress-MCP/git2consul)
++ [kvexpress: Go program to move data in and out of Consul's KV store](https://github.com/DataDog/kvexpress)
++ [sifter: Helps to prevent Consul from firing prematurely](https://github.com/darron/sifter)
++ [uwsgi-consul: uWSGI plugin for consul integration](https://github.com/unbit/uwsgi-consul)
