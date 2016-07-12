@@ -100,6 +100,7 @@ $ bin/consul agent -config-dir ./consul.d
 #### Others
 
 + [Consul KV backup](https://github.com/kailunshi/consul-backup)
++ [Consul Snapshot(kv backup daemon)](https://github.com/pshima/consul-snapshot)
 + [consul-cli: Command line interface](https://github.com/CiscoCloud/consul-cli)
 + [consul-do: Do something based on leadership status](https://github.com/zeroXten/consul-do)
 + [crypt: Store and retrieve encrypted configs](https://github.com/xordataexchange/crypt)
