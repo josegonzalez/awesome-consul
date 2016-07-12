@@ -34,11 +34,11 @@ This is a list of awesome third-party consul projects, libraries.
 #### Authentication
 
 + [ssh-hecate: SSH authorized_keys management via Consul](https://github.com/ncfritz/ssh-hecate)
-+ [consul-snapshot: A consul backup daemon to S3](https://github.com/pshima/consul-snapshot)
 
 #### Backup and Restore
 
 + [Consul KV backup](https://github.com/kailunshi/consul-backup)
++ [consul-snapshot: A consul backup daemon to S3](https://github.com/pshima/consul-snapshot)
 
 #### CLI Tools
 
