@@ -64,6 +64,11 @@ This is a list of awesome third-party consul projects, libraries.
 + [hiera-consul: Hiera backend plugin for Consul](https://github.com/lynxman/hiera-consul)
 + [kvexpress: Go program to move data in and out of Consul's KV store](https://github.com/DataDog/kvexpress)
 
+### Load Balancing
+
++ [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/eBay/fabio)
++ [Træfɪk: a modern reverse proxy](https://traefik.io/)
+
 ### Monitoring
 
 + [liaison: A daemon that collects service health information from Consul and converts it to time series data](https://github.com/cruatta/liaison)
