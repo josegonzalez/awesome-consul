@@ -102,6 +102,7 @@ $ bin/consul agent -config-dir ./consul.d
 + [Consul KV backup](https://github.com/kailunshi/consul-backup)
 + [consul-cli: Command line interface](https://github.com/CiscoCloud/consul-cli)
 + [consul-do: Do something based on leadership status](https://github.com/zeroXten/consul-do)
++ [cronsul: Very simple distributed periodic job scheduler](https://github.com/EvanKrall/cronsul)
 + [crypt: Store and retrieve encrypted configs](https://github.com/xordataexchange/crypt)
 + [git2consul: Mirrors for multiple git repos](https://github.com/Cimpress-MCP/git2consul)
 + [kvexpress: Go program to move data in and out of Consul's KV store](https://github.com/DataDog/kvexpress)
