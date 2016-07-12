@@ -51,6 +51,7 @@ This is a list of awesome third-party consul projects, libraries.
 + [consul-lock: Runs another program with a Consul session/kv locked.](https://github.com/fujiwara/consul-lock)
 + [consul-locker: Enforce that a program runs only on one machine at a time in a datacenter.](https://github.com/fidian/consul-locker)
 + [cronsul: Very simple distributed periodic job scheduler](https://github.com/EvanKrall/cronsul)
++ [dkron: Distributed, fault tolerant job scheduling system](http://dkron.io/)
 + [metronome: Scheduling tool on Consul](https://github.com/cloudconductor/metronome)
 + [sifter: Helps to prevent Consul from firing prematurely](https://github.com/darron/sifter)
 
