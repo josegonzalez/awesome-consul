@@ -1,4 +1,4 @@
-# Awesome Consul [![Build Status](https://travis-ci.org/josegonzalez/awesome-consul.svg?branch=master)](https://travis-ci.org/josegonzalez/awesome-consul)
+# Awesome Consul [![Build Status](https://api.travis-ci.org/josegonzalez/awesome-consul.svg?branch=master )](https://travis-ci.org/josegonzalez/awesome-consul)
 
 This is a list of awesome third-party consul projects, libraries.
 
@@ -100,7 +100,7 @@ This is a list of awesome third-party consul projects, libraries.
 + Docker
     + [hashicorp/docker-consul](https://github.com/hashicorp/docker-consul)
     + [foostan/consul-with-docker](https://github.com/foostan/consul-with-docker)
-    + [gliderlabs/docker-consul](https://github.com/progrium/gliderlabs-consul)
+    + [gliderlabs/docker-consul](https://github.com/gliderlabs/docker-consul)
 + Puppet
     + [solarkennedy/puppet-consul](https://github.com/solarkennedy/puppet-consul)
 + Salt
