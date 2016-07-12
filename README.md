@@ -1,5 +1,4 @@
-
-# Awesome Consul
+# Awesome Consul [![Build Status](https://travis-ci.org/josegonzalez/awesome-consul.svg?branch=master)](https://travis-ci.org/josegonzalez/awesome-consul)
 
 This is a list of awesome third-party consul projects, libraries.
 
