@@ -90,8 +90,8 @@ This is a list of awesome third-party consul projects, libraries.
 
 + Ansible
     + [griggheo/ansible-consul-template](https://github.com/griggheo/ansible-consul-template)
-    + [jivesoftware/ansible-consul](https://github.com/jivesoftware/ansible-consul)
     + [mattupstate/vpc-consul](https://github.com/mattupstate/vpc-consul)
+    + [savagegus/ansible-consul](https://github.com/savagegus/ansible-consul)
     + [sgargan/consul](https://github.com/sgargan/consul)
 + Chef
     + [adamkrone/chef-consul-template](https://github.com/adamkrone/chef-consul-template)
@@ -100,7 +100,7 @@ This is a list of awesome third-party consul projects, libraries.
 + Docker
     + [hashicorp/docker-consul](https://github.com/hashicorp/docker-consul)
     + [foostan/consul-with-docker](https://github.com/foostan/consul-with-docker)
-    + [progrium/docker-consul](https://github.com/progrium/docker-consul)
+    + [gliderlabs/docker-consul](https://github.com/progrium/gliderlabs-consul)
 + Puppet
     + [solarkennedy/puppet-consul](https://github.com/solarkennedy/puppet-consul)
 + Salt
