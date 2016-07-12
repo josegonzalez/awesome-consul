@@ -14,7 +14,7 @@ This is a list of awesome third-party consul projects, libraries.
 ## Awesome consul
 
 + [Alerting](#alerting)
-+ [Authentication](#authentication)
++ [Authentication and Authorization](#authentication-and-authorization)
 + [Backup and Restore](#backup-and-restore)
 + [CLI Tools](#cli-tools)
 + [Command Execution](#command-execution)
@@ -24,27 +24,28 @@ This is a list of awesome third-party consul projects, libraries.
 + [Packaging](#packaging)
 + [Provisioning](#provisioning)
 + [Programming Language Clients](#programming-language-clients)
-+ [Practices](#practices)
++ [Errata](#errata)
 
 ### Alerting
 
 + [consulalerting: Alert groups, teams, individuals by tags and plugins](https://github.com/jrxFive/consulalerting)
 + [consul-alerts: Simple daemon to send notifications based on Consul health checks](https://github.com/AcalephStorage/consul-alerts)
 
-#### Authentication
+### Authentication And Authorization
 
++ [consult: Consul helper tool for quick query based SSH and more](https://github.com/outbrain/consult)
 + [ssh-hecate: SSH authorized_keys management via Consul](https://github.com/ncfritz/ssh-hecate)
 
-#### Backup and Restore
+### Backup and Restore
 
 + [Consul KV backup](https://github.com/kailunshi/consul-backup)
 + [consul-snapshot: A consul backup daemon to S3](https://github.com/pshima/consul-snapshot)
 
-#### CLI Tools
+### CLI Tools
 
 + [consul-cli: Command line interface](https://github.com/CiscoCloud/consul-cli)
 
-#### Command Execution
+### Command Execution
 
 + [consul-do: Do something based on leadership status](https://github.com/zeroXten/consul-do)
 + [consul-lock: Runs another program with a Consul session/kv locked.](https://github.com/fujiwara/consul-lock)
@@ -53,7 +54,7 @@ This is a list of awesome third-party consul projects, libraries.
 + [metronome: Scheduling tool on Consul](https://github.com/cloudconductor/metronome)
 + [sifter: Helps to prevent Consul from firing prematurely](https://github.com/darron/sifter)
 
-#### Configuration Management
+### Configuration Management
 
 + [confd: Manage local application configuration files using templates and data from etcd or consul
 ](https://github.com/kelseyhightower/confd)
@@ -63,11 +64,11 @@ This is a list of awesome third-party consul projects, libraries.
 + [hiera-consul: Hiera backend plugin for Consul](https://github.com/lynxman/hiera-consul)
 + [kvexpress: Go program to move data in and out of Consul's KV store](https://github.com/DataDog/kvexpress)
 
-#### Monitoring
+### Monitoring
 
 + [liaison: A daemon that collects service health information from Consul and converts it to time series data](https://github.com/cruatta/liaison)
 
-#### Other
+### Other
 
 + [consulfs: ConsulFS is a FUSE distributed filesystem backed by a Consul Key-Value store](https://github.com/bwester/consulfs)
 + [git2consul: Mirrors for multiple git repos](https://github.com/Cimpress-MCP/git2consul)
@@ -83,6 +84,7 @@ This is a list of awesome third-party consul projects, libraries.
 ### Provisioning
 
 + Docker
+    + [hashicorp/docker-consul](https://github.com/hashicorp/docker-consul)
     + [progrium/docker-consul](https://github.com/progrium/docker-consul)
     + [foostan/consul-with-docker](https://github.com/foostan/consul-with-docker)
 + Puppet
@@ -123,7 +125,7 @@ This is a list of awesome third-party consul projects, libraries.
 + Scala
     + [codacy/scala-consul](https://github.com/codacy/scala-consul)
 
-### Practices
+### Errata
 
 #### Service Discovery
 
