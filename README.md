@@ -89,29 +89,26 @@ This is a list of awesome third-party consul projects, libraries.
 
 ### Provisioning
 
++ Ansible
+    + [griggheo/ansible-consul-template](https://github.com/griggheo/ansible-consul-template)
+    + [jivesoftware/ansible-consul](https://github.com/jivesoftware/ansible-consul)
+    + [mattupstate/vpc-consul](https://github.com/mattupstate/vpc-consul)
+    + [sgargan/consul](https://github.com/sgargan/consul)
++ Chef
+    + [adamkrone/chef-consul-template](https://github.com/adamkrone/chef-consul-template)
+    + [darron/consul-cookbook](https://github.com/darron/consul-cookbook)
+    + [johnbellone/consul-cookbook](https://github.com/johnbellone/consul-cookbook)
 + Docker
     + [hashicorp/docker-consul](https://github.com/hashicorp/docker-consul)
-    + [progrium/docker-consul](https://github.com/progrium/docker-consul)
     + [foostan/consul-with-docker](https://github.com/foostan/consul-with-docker)
+    + [progrium/docker-consul](https://github.com/progrium/docker-consul)
 + Puppet
     + [solarkennedy/puppet-consul](https://github.com/solarkennedy/puppet-consul)
 + Salt
     + [pravka/salt-consul](https://github.com/pravka/salt-consul)
-+ Ansible
-    + [sgargan/consul](https://github.com/sgargan/consul)
-    + [jivesoftware/ansible-consul](https://github.com/jivesoftware/ansible-consul)
-    + [mattupstate/vpc-consul](https://github.com/mattupstate/vpc-consul)
-    + [griggheo/ansible-consul-template](https://github.com/griggheo/ansible-consul-template)
-+ Chef
-    + [johnbellone/consul-cookbook](https://github.com/johnbellone/consul-cookbook)
-    + [adamkrone/chef-consul-template](https://github.com/adamkrone/chef-consul-template)
-    + [darron/consul-cookbook](https://github.com/darron/consul-cookbook)
 
 ### Programming Language Clients
 
-+ PHP
-    + [baldurrensch/consul-php](https://github.com/baldurrensch/consul-php)
-    + [sensiolabs/consul-php-sdk](https://github.com/sensiolabs/consul-php-sdk)
 + Go
     + [armon/consul-api](https://github.com/armon/consul-api)
     + [consulstructure: Decode Consul data into Go (Golang) structures and watch for updates](https://github.com/mitchellh/consulstructure)
@@ -121,6 +118,9 @@ This is a list of awesome third-party consul projects, libraries.
 + Node.js
     + [gjohnson/consul-node](https://github.com/gjohnson/consul-node)
     + [silas/node-consul](https://github.com/silas/node-consul)
++ PHP
+    + [baldurrensch/consul-php](https://github.com/baldurrensch/consul-php)
+    + [sensiolabs/consul-php-sdk](https://github.com/sensiolabs/consul-php-sdk)
 + Python
     + [cablehead/python-consul](https://github.com/cablehead/python-consul)
     + [gmr/consulate](https://github.com/gmr/consulate)
