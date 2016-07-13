@@ -23,6 +23,7 @@ This is a list of awesome third-party consul projects, libraries.
 + [Packaging](#packaging)
 + [Provisioning](#provisioning)
 + [Programming Language Clients](#programming-language-clients)
++ [Service Discovery](#service-discovery)
 + [Errata](#errata)
 
 ### Alerting
