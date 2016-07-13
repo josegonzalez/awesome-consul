@@ -56,8 +56,7 @@ This is a list of awesome third-party consul projects, libraries.
 
 ### Configuration Management
 
-+ [confd: Manage local application configuration files using templates and data from etcd or consul
-](https://github.com/kelseyhightower/confd)
++ [confd: Manage local application configuration files using templates and data from etcd or consul](https://github.com/kelseyhightower/confd)
 + [consul-template: Generic template rendering and notifications with Consul](https://github.com/hashicorp/consul-template)
 + [crypt: Store and retrieve encrypted configs](https://github.com/xordataexchange/crypt)
 + [envconsul: Read and set environmental variables for processes from Consul](https://github.com/hashicorp/envconsul)
