@@ -129,9 +129,15 @@ This is a list of awesome third-party consul projects, libraries.
 + Scala
     + [codacy/scala-consul](https://github.com/codacy/scala-consul)
 
+### Service Discovery
+
++ [connectable: Magic proxy for internal services](https://github.com/gliderlabs/connectable)
++ [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
++ [resolvable: Host-level DNS gateway for Docker](https://github.com/gliderlabs/resolvable)
+
 ### Errata
 
-#### Service Discovery
+#### ZeroRPC
 
 [consul.d](consul.d) is an example configure file that consul working with ZeroRPC.
 
