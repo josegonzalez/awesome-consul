@@ -44,6 +44,7 @@ This is a list of awesome third-party consul projects, libraries.
 ### CLI Tools
 
 + [consul-cli: Command line interface](https://github.com/CiscoCloud/consul-cli)
++ [consul-bash-completion: Consul Bash Completion library](https://github.com/nzroller/consul-bash-completion)
 
 ### Command Execution
 
