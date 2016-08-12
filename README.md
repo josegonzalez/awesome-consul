@@ -137,6 +137,16 @@ This is a list of awesome third-party consul projects, libraries.
 + [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
 + [resolvable: Host-level DNS gateway for Docker](https://github.com/gliderlabs/resolvable)
 
+### Articles
+
++ [Monitoring Consul Health and Performance](https://www.datadoghq.com/blog/monitor-consul-health-and-performance-with-datadog/) - Article by @vagelim on how to monitor consul.
++ [Consul for Cluster Health Monitoring](https://www.vividcortex.com/blog/2015/05/22/consul-for-cluster-health-monitoring/) - Owen Zanzal writes about using Consul in place of nagios for cluster monitoring.
++ [Consul at Datadog](https://engineering.datadoghq.com/consul-at-datadog/) - Article by Darron Froese on how Datadog deploys consul in production.
+
+### Presentations
+
++ [Running Consul at Scale—Journey from RFC to Production](https://www.usenix.org/conference/srecon16/program/presentation/froese) (SRECON 2016)
+
 ### Errata
 
 #### ZeroRPC
