@@ -10,21 +10,27 @@ This is a list of awesome third-party consul projects, libraries.
 + Flexible health check
 + Excellent documentation
 
-## Awesome consul
+## Table Of Contents
 
-+ [Alerting](#alerting)
-+ [Authentication and Authorization](#authentication-and-authorization)
-+ [Backup and Restore](#backup-and-restore)
-+ [CLI Tools](#cli-tools)
-+ [Command Execution](#command-execution)
-+ [Configuration Management](#configuration-management)
-+ [Monitoring](#monitoring)
-+ [Other](#other)
-+ [Packaging](#packaging)
-+ [Provisioning](#provisioning)
-+ [Programming Language Clients](#programming-language-clients)
-+ [Service Discovery](#service-discovery)
-+ [Errata](#errata)
+- Projects
+    - [Alerting](#alerting)
+    - [Authentication and Authorization](#authentication-and-authorization)
+    - [Backup and Restore](#backup-and-restore)
+    - [CLI Tools](#cli-tools)
+    - [Command Execution](#command-execution)
+    - [Configuration Management](#configuration-management)
+    - [Monitoring](#monitoring)
+    - [Other](#other)
+    - [Packaging](#packaging)
+    - [Provisioning](#provisioning)
+    - [Programming Language Clients](#programming-language-clients)
+    - [Service Discovery](#service-discovery)
+    - [Errata](#errata)
+- Links
+    - [Articles](#articles)
+    - [Presentations](#presentations)
+
+## Projects
 
 ### Alerting
 
@@ -137,11 +143,13 @@ This is a list of awesome third-party consul projects, libraries.
 + [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
 + [resolvable: Host-level DNS gateway for Docker](https://github.com/gliderlabs/resolvable)
 
+## Links
+
 ### Articles
 
-+ [Monitoring Consul Health and Performance](https://www.datadoghq.com/blog/monitor-consul-health-and-performance-with-datadog/) - Article by @vagelim on how to monitor consul.
-+ [Consul for Cluster Health Monitoring](https://www.vividcortex.com/blog/2015/05/22/consul-for-cluster-health-monitoring/) - Owen Zanzal writes about using Consul in place of nagios for cluster monitoring.
 + [Consul at Datadog](https://engineering.datadoghq.com/consul-at-datadog/) - Article by Darron Froese on how Datadog deploys consul in production.
++ [Consul for Cluster Health Monitoring](https://www.vividcortex.com/blog/2015/05/22/consul-for-cluster-health-monitoring/) - Owen Zanzal writes about using Consul in place of nagios for cluster monitoring.
++ [Monitoring Consul Health and Performance](https://www.datadoghq.com/blog/monitor-consul-health-and-performance-with-datadog/) - Article by @vagelim on how to monitor consul.
 
 ### Presentations
 
