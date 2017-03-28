@@ -112,7 +112,7 @@ This is a list of awesome third-party consul projects, libraries.
 + Puppet
     + [solarkennedy/puppet-consul](https://github.com/solarkennedy/puppet-consul)
 + Salt
-    + [pravka/salt-consul](https://github.com/pravka/salt-consul)
+    + [systembell/salt-consul](https://github.com/systembell/salt-consul)
 
 ### Programming Language Clients
 
