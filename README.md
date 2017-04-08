@@ -53,6 +53,7 @@ This is a list of awesome third-party consul projects, libraries.
 + [consul-bash-completion: Consul Bash Completion library](https://github.com/nzroller/consul-bash-completion)
 
 ### Command Execution
+*As of Consul 0.5, you can use [consul lock](https://www.consul.io/docs/commands/lock.html) for many of these tasks.*
 
 + [cdsh: Distributed SHH](https://github.com/grubernaut/cdsh)
 + [consul-do: Do something based on leadership status](https://github.com/zeroXten/consul-do)
