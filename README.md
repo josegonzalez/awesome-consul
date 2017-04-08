@@ -45,6 +45,7 @@ This is a list of awesome third-party consul projects, libraries.
 ### Backup and Restore
 
 + [Consul KV backup](https://github.com/kailunshi/consul-backup)
++ [consul-backinator](https://github.com/myENA/consul-backinator)
 + [consul-snapshot: A consul backup daemon to S3](https://github.com/pshima/consul-snapshot)
 
 ### CLI Tools
