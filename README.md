@@ -44,6 +44,8 @@ This is a list of awesome third-party consul projects, libraries.
 
 ### Backup and Restore
 
+> *As of Consul 0.7.1, you can use [consul snapshot](https://www.consul.io/docs/commands/snapshot.html) for some use-cases.*
+
 + [Consul KV backup](https://github.com/kailunshi/consul-backup)
 + [consul-backinator](https://github.com/myENA/consul-backinator)
 + [consul-snapshot: A consul backup daemon to S3](https://github.com/pshima/consul-snapshot)
@@ -54,7 +56,8 @@ This is a list of awesome third-party consul projects, libraries.
 + [consul-bash-completion: Consul Bash Completion library](https://github.com/nzroller/consul-bash-completion)
 
 ### Command Execution
-*As of Consul 0.5, you can use [consul lock](https://www.consul.io/docs/commands/lock.html) for many of these tasks.*
+
+> *As of Consul 0.5, you can use [consul lock](https://www.consul.io/docs/commands/lock.html) for many of these tasks.*
 
 + [cdsh: Distributed SHH](https://github.com/grubernaut/cdsh)
 + [consul-do: Do something based on leadership status](https://github.com/zeroXten/consul-do)
