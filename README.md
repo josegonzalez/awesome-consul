@@ -59,7 +59,7 @@ This is a list of awesome third-party consul projects, libraries.
 
 > *As of Consul 0.5, you can use [consul lock](https://www.consul.io/docs/commands/lock.html) for many of these tasks.*
 
-+ [cdsh: Distributed SHH](https://github.com/grubernaut/cdsh)
++ [cdsh: Distributed SSH](https://github.com/grubernaut/cdsh)
 + [consul-do: Do something based on leadership status](https://github.com/zeroXten/consul-do)
 + [consul-lock: Runs another program with a Consul session/kv locked.](https://github.com/fujiwara/consul-lock)
 + [consul-locker: Enforce that a program runs only on one machine at a time in a datacenter.](https://github.com/fidian/consul-locker)
