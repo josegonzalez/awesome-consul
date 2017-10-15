@@ -80,7 +80,7 @@ This is a list of awesome third-party consul projects, libraries.
 
 ### Load Balancing
 
-+ [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/eBay/fabio)
++ [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
 + [Træfɪk: a modern reverse proxy](https://traefik.io/)
 
 ### Monitoring
@@ -154,7 +154,7 @@ This is a list of awesome third-party consul projects, libraries.
 
 ### Articles
 
-+ [Consul at Datadog](https://engineering.datadoghq.com/consul-at-datadog/) - Article by Darron Froese on how Datadog deploys consul in production.
++ [Consul at Datadog](https://www.datadoghq.com/blog/engineering/consul-at-datadog/ ) - Article by Darron Froese on how Datadog deploys consul in production.
 + [Consul for Cluster Health Monitoring](https://www.vividcortex.com/blog/2015/05/22/consul-for-cluster-health-monitoring/) - Owen Zanzal writes about using Consul in place of nagios for cluster monitoring.
 + [Monitoring Consul Health and Performance](https://www.datadoghq.com/blog/monitor-consul-health-and-performance-with-datadog/) - Article by @vagelim on how to monitor consul.
 + [Securing Consul](https://www.mauras.ch/securing-consul.html) - Article on making your consul setup more secure than the defaults give you.
