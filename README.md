@@ -90,7 +90,7 @@ This is a list of awesome third-party consul projects, libraries.
 ### Other
 
 + [consulfs: ConsulFS is a FUSE distributed filesystem backed by a Consul Key-Value store](https://github.com/bwester/consulfs)
-+ [git2consul: Mirrors for multiple git repos](https://github.com/Cimpress-MCP/git2consul)
++ [git2consul: Mirrors for multiple git repos](https://github.com/breser/git2consul)
 + [uwsgi-consul: uWSGI plugin for consul integration](https://github.com/unbit/uwsgi-consul)
 
 ### Packaging
@@ -137,7 +137,7 @@ This is a list of awesome third-party consul projects, libraries.
 + Python
     + [cablehead/python-consul](https://github.com/cablehead/python-consul)
     + [gmr/consulate](https://github.com/gmr/consulate)
-    + [hackliff/pyconsul](https://github.com/hackliff/pyconsul)
+    + [xav-b/pyconsul](https://github.com/xav-b/pyconsul)
 + Ruby
     + [WeAreFarmGeek/diplomat](https://github.com/WeAreFarmGeek/diplomat)
     + [xaviershay/consul-client](https://github.com/xaviershay/consul-client)
