@@ -80,6 +80,7 @@ This is a list of awesome third-party consul projects, libraries.
 
 ### Load Balancing
 
++ [consul-envoy: Consul to Envoy Bridge](https://github.com/jippi/consul-envoy)
 + [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
 + [Træfɪk: a modern reverse proxy](https://traefik.io/)
 
