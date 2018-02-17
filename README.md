@@ -77,6 +77,7 @@ This is a list of awesome third-party consul projects, libraries.
 + [hashi-helper: Disaster Recovery and Configuration Management for Consul and Vault](https://github.com/seatgeek/hashi-helper)
 + [hiera-consul: Hiera backend plugin for Consul](https://github.com/lynxman/hiera-consul)
 + [kvexpress: Go program to move data in and out of Consul's KV store](https://github.com/DataDog/kvexpress)
++ [Consul.conf: responsive web interface for managing configuration of your services in Consul KV store](https://github.com/lukaszlach/consul-conf)
 
 ### Load Balancing
 
