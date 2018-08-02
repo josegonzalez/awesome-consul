@@ -159,6 +159,7 @@ This is a list of awesome third-party consul projects, libraries.
 + [Consul for Cluster Health Monitoring](https://www.vividcortex.com/blog/2015/05/22/consul-for-cluster-health-monitoring/) - Owen Zanzal writes about using Consul in place of nagios for cluster monitoring.
 + [Monitoring Consul Health and Performance](https://www.datadoghq.com/blog/monitor-consul-health-and-performance-with-datadog/) - Article by @vagelim on how to monitor consul.
 + [Securing Consul](https://www.mauras.ch/securing-consul.html) - Article on making your consul setup more secure than the defaults give you.
++ [Managing Secrets with Vault and Consul](https://testdriven.io/managing-secrets-with-vault-and-consul) - This post looks at how to set up and use Hashicorp's Vault and Consul to securely store and manage secrets.
 
 ### Presentations
 
