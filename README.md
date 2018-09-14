@@ -84,6 +84,7 @@ This is a list of awesome third-party consul projects, libraries.
 + [consul-envoy: Consul to Envoy Bridge](https://github.com/jippi/consul-envoy)
 + [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
 + [Træfɪk: a modern reverse proxy](https://traefik.io/)
++ [nginx-upsync-module - Nginx C module, sync upstreams from consul or others](https://github.com/weibocom/nginx-upsync-module)
 
 ### Monitoring
 
