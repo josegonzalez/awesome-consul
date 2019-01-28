@@ -127,7 +127,8 @@ This is a list of awesome third-party consul projects, libraries.
 ### Programming Language Clients
 
 + Go
-    + [armon/consul-api](https://github.com/armon/consul-api)
+    + [armon/consul-api](https://github.com/armon/consul-api) [DEPRECATED]
+    + [hashicorp/consul/api](https://github.com/hashicorp/consul/tree/master/api)
     + [consulstructure: Decode Consul data into Go (Golang) structures and watch for updates](https://github.com/mitchellh/consulstructure)
 + Java
     + [Ecwid/consul-api](https://github.com/Ecwid/consul-api)
