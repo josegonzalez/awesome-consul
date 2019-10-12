@@ -163,7 +163,7 @@ This is a list of awesome third-party consul projects, libraries.
 + [Monitoring Consul Health and Performance](https://www.datadoghq.com/blog/monitor-consul-health-and-performance-with-datadog/) - Article by @vagelim on how to monitor consul.
 + [Securing Consul](https://www.mauras.ch/securing-consul.html) - Article on making your consul setup more secure than the defaults give you.
 + [Managing Secrets with Vault and Consul](https://testdriven.io/managing-secrets-with-vault-and-consul) - This post looks at how to set up and use Hashicorp's Vault and Consul to securely store and manage secrets.
-
++ [Configuration management with Consul](https://medium.com/magnet-me-engineering/configuration-management-with-consul-a36cfa1252ea) - Article by Michael de Jongon on how to manage the configuration of many different services located in a cluster where services are running in different datacenters
 ### Presentations
 
 + [Running Consul at Scale—Journey from RFC to Production](https://www.usenix.org/conference/srecon16/program/presentation/froese) (SRECON 2016)
