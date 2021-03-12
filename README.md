@@ -147,6 +147,7 @@ This is a list of awesome third-party consul projects, libraries.
     + [xaviershay/consul-client](https://github.com/xaviershay/consul-client)
 + Scala
     + [codacy/scala-consul](https://github.com/codacy/scala-consul)
+    + [getnelson/helm](https://github.com/getnelson/helm)
 
 ### Service Discovery
 
