@@ -44,7 +44,7 @@ This is a list of awesome third-party consul projects, libraries.
 
 ### Backup and Restore
 
-> *As of Consul 0.7.1, you can use [consul snapshot](https://www.consul.io/docs/commands/snapshot.html) for some use-cases.*
+> *As of Consul 0.7.1, you can use [consul snapshot](https://www.consul.io/docs/commands/snapshot) for some use-cases.*
 
 + [Consul KV backup](https://github.com/kailunshi/consul-backup)
 + [consul-backinator](https://github.com/myENA/consul-backinator)
@@ -57,7 +57,7 @@ This is a list of awesome third-party consul projects, libraries.
 
 ### Command Execution
 
-> *As of Consul 0.5, you can use [consul lock](https://www.consul.io/docs/commands/lock.html) for many of these tasks.*
+> *As of Consul 0.5, you can use [consul lock](https://www.consul.io/docs/commands/lock) for many of these tasks.*
 
 + [cdsh: Distributed SSH](https://github.com/grubernaut/cdsh)
 + [consul-do: Do something based on leadership status](https://github.com/zeroXten/consul-do)
@@ -109,12 +109,12 @@ This is a list of awesome third-party consul projects, libraries.
 + Ansible
     + [griggheo/ansible-consul-template](https://github.com/griggheo/ansible-consul-template)
     + [mattupstate/vpc-consul](https://github.com/mattupstate/vpc-consul)
-    + [savagegus/ansible-consul](https://github.com/savagegus/ansible-consul)
+    + [mattfinlayson/ansible-consul](https://github.com/mattfinlayson/ansible-consul)
     + [sgargan/consul](https://github.com/sgargan/consul)
 + Chef
     + [adamkrone/chef-consul-template](https://github.com/adamkrone/chef-consul-template)
     + [darron/consul-cookbook](https://github.com/darron/consul-cookbook)
-    + [johnbellone/consul-cookbook](https://github.com/johnbellone/consul-cookbook)
+    + [sous-chefs/consul](https://github.com/sous-chefs/consul)
 + Docker
     + [hashicorp/docker-consul](https://github.com/hashicorp/docker-consul)
     + [foostan/consul-with-docker](https://github.com/foostan/consul-with-docker)
@@ -131,13 +131,13 @@ This is a list of awesome third-party consul projects, libraries.
     + [consulstructure: Decode Consul data into Go (Golang) structures and watch for updates](https://github.com/mitchellh/consulstructure)
 + Java
     + [Ecwid/consul-api](https://github.com/Ecwid/consul-api)
-    + [OrbitzWorldwide/consul-client](https://github.com/OrbitzWorldwide/consul-client)
+    + [rickfast/consul-client]( https://github.com/rickfast/consul-client)
 + Node.js
     + [gjohnson/consul-node](https://github.com/gjohnson/consul-node)
     + [silas/node-consul](https://github.com/silas/node-consul)
 + PHP
     + [baldurrensch/consul-php](https://github.com/baldurrensch/consul-php)
-    + [sensiolabs/consul-php-sdk](https://github.com/sensiolabs/consul-php-sdk)
+    + [FriendsOfPHP/consul-php-sdk](https://github.com/FriendsOfPHP/consul-php-sdk)
 + Python
     + [cablehead/python-consul](https://github.com/cablehead/python-consul)
     + [gmr/consulate](https://github.com/gmr/consulate)
@@ -160,10 +160,9 @@ This is a list of awesome third-party consul projects, libraries.
 ### Articles
 
 + [Consul at Datadog](https://www.datadoghq.com/blog/engineering/consul-at-datadog/ ) - Article by Darron Froese on how Datadog deploys consul in production.
-+ [Consul for Cluster Health Monitoring](https://www.vividcortex.com/blog/2015/05/22/consul-for-cluster-health-monitoring/) - Owen Zanzal writes about using Consul in place of nagios for cluster monitoring.
 + [Monitoring Consul Health and Performance](https://www.datadoghq.com/blog/monitor-consul-health-and-performance-with-datadog/) - Article by @vagelim on how to monitor consul.
 + [Securing Consul](https://www.mauras.ch/securing-consul.html) - Article on making your consul setup more secure than the defaults give you.
-+ [Managing Secrets with Vault and Consul](https://testdriven.io/managing-secrets-with-vault-and-consul) - This post looks at how to set up and use Hashicorp's Vault and Consul to securely store and manage secrets.
++ [Managing Secrets with Vault and Consul](https://testdriven.io/blog/managing-secrets-with-vault-and-consul/) - This post looks at how to set up and use Hashicorp's Vault and Consul to securely store and manage secrets.
 + [Configuration management with Consul](https://medium.com/magnet-me-engineering/configuration-management-with-consul-a36cfa1252ea) - Article by Michael de Jongon on how to manage the configuration of many different services located in a cluster where services are running in different datacenters
 ### Presentations
 
