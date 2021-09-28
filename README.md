@@ -95,6 +95,7 @@ This is a list of awesome third-party consul projects, libraries.
 
 + [consul-topology-visualizer: Visualize latency between your Consul nodes](https://github.com/vmarchaud/consul-topology-visualizer)
 + [consulfs: ConsulFS is a FUSE distributed filesystem backed by a Consul Key-Value store](https://github.com/bwester/consulfs)
++ [consulmq: Golang library for using consul as a message queue](https://github.com/peterfraedrich/consulmq)
 + [git2consul: Mirrors for multiple git repos](https://github.com/breser/git2consul)
 + [uwsgi-consul: uWSGI plugin for consul integration](https://github.com/unbit/uwsgi-consul)
 
