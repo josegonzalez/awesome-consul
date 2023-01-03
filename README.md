@@ -25,6 +25,7 @@ This is a list of awesome third-party consul projects, libraries.
     - [Provisioning](#provisioning)
     - [Programming Language Clients](#programming-language-clients)
     - [Service Discovery](#service-discovery)
+    - [UI](#ui)
     - [Errata](#errata)
 - Links
     - [Articles](#articles)
@@ -169,6 +170,10 @@ This is a list of awesome third-party consul projects, libraries.
 ### Presentations
 
 + [Running Consul at Scale—Journey from RFC to Production](https://www.usenix.org/conference/srecon16/program/presentation/froese) (SRECON 2016)
+
+### UI
++ [consul-power-ui](https://github.com/shweshi/consul-power-ui)
++ [Hashi-UI](https://github.com/jippi/hashi-ui)
 
 ### Errata
 
